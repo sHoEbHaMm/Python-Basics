@@ -20,5 +20,5 @@ for price in prices:
 print("")
 print("------------YOUR CART------------")
 print("Shopping cart:", items)
-print(f"Cart total:${total}")
+print(f"Cart total: ${total}")
 print("Thank you for shopping!")
